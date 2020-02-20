@@ -1,0 +1,43 @@
+body{
+    background-image: url(./images/bg.jpg);
+    width: 678px;
+}
+#heading{
+    color: white;
+    position: relative;
+    top: 325px;
+    left:  228px;
+    text-decoration: underline; 
+    letter-spacing: 10px;
+}
+a{
+    text-decoration: none;
+    color: #336DFF;
+}
+#manual{
+    position: relative;
+    top: 320px;
+    left: 274px;
+    font-size: 22px;
+    border: 2px solid teal;
+    border-radius: 20px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+#manual:hover, #auto:hover{
+    background-color: #1a5e97;
+    border-color: white;
+
+}
+#auto{
+    position: relative;
+    top: 320px;
+    left: 274px;
+    font-size: 22px;
+    border: 2px solid teal;
+    border-radius: 20px; 
+    font-weight: bold;  
+    font-family: 'Times New Roman', Times, serif; 
+}
